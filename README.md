@@ -6,6 +6,8 @@
 - Emscript - already setup with everything you need
 - Make installed
 
+## How To Compile
+
 - Open the terminal and type*:
 ````````````
      emcmake cmake -S . -B build -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release
