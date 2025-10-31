@@ -14,7 +14,7 @@
 ````````````
 *You may have to run the command twice
 
--- Then type these commands:
+- Then type these commands:
 
 `````````````````
     emmake make -C build
